@@ -5,5 +5,5 @@
 - 🧷 Twitter
 - ✨ Instagram
 - 💻 Google Meet
-
+- 🛰️ Linux Terminal
 
